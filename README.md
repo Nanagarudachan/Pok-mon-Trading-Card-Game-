@@ -10,9 +10,8 @@ zu gewinnen.
 ## 🧠 Verwendete Technologien
 
 * PostgeSQL
-* Microsoft Azure (optional, falls benutzt)
-* Power BI (optional)
-
+* Power Point
+* 
 ---
 
 ## 📂 Inhalte
