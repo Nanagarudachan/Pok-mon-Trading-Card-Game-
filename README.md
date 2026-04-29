@@ -48,4 +48,5 @@ Ich habe folgende Dinge untersucht:
 Die Pokémon TCG Datenbankanalyse zeigt: Fire-Typen dominieren bei Schadenswerten, Ultra Rare Karten haben die höchste Effizienz, und die Kartenvielfalt wuchs exponentiell seit 1999. Diese Insights ermöglichen strategische Deck-Optimierung.
 .
 
+<img width="330" height="122" alt="International_Pokémon_logo svg" src="https://github.com/user-attachments/assets/82a19960-8745-45d1-ad4f-254d7d9612d0" />
 
